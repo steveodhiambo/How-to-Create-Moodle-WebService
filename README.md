@@ -1,6 +1,6 @@
 ![Moodle Logo](https://img.icons8.com/color/144/000000/moodle.png")
 
-# Moodle Webservice Creation
+# Moodle Webservice Creation Tutorial
 
 1. Login as admin/manager account.
 1. Click on `Site administration tab` -> `Advanced features` then check/set to true `Enable web services`.
